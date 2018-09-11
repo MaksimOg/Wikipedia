@@ -1,0 +1,25 @@
+
+   #forma{
+    border: 2px solid;
+	border-radius: 20px;
+	margin: 100px auto auto auto;
+	width: 200px;
+	height: 40px;
+	cursor: pointer;
+   }
+   
+   #target1{
+     width: 150px;
+   	 margin:5px 0px 0px 10px;
+     height: 25px;
+	   outline: none;
+	   border: none;
+     font-size:20px;
+	   -webkit-apperance: none;
+   }
+    p{
+      font-size:15px;
+    }
+    li{
+      list-style-type: none;
+    }
